@@ -16,3 +16,9 @@ Now what?
 =========
 
 Calling the script with no argumets will print out it's usage/syntax.
+
+
+To-Do
+=====
+- Automatically populate csvpath by figuring out if the system is a run-of-the-mill pentesting disto
+- Perhaps figure out a way to make it a bit more clever so if the user isn't pervy to the csv value order the script will still return meaningful results
