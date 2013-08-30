@@ -1,7 +1,7 @@
 Searchsploit
 ============
 
-Command line tool to search a local exploit-db repository
+A command line tool to search a local exploit-db repository.
 
 
 What you'll need to do
